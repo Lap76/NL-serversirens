@@ -58,3 +58,7 @@ Momenteel zijn de enige serverside audio's die nederlands zijn:
 	</SOUNDS>
 ```
 
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [fk-1997](https://github.com/fk-1997/Server-Sided-Sounds-and-Sirens/tree/main)https://github.com/fk-1997/Server-Sided-Sounds-and-Sirens/tree/main)
