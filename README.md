@@ -58,6 +58,17 @@ Momenteel zijn de enige serverside audio's die nederlands zijn:
 	</SOUNDS>
 ```
 
+## Authors
+
+Contributors names and contact info
+
+Larsdewolf discord: @Larsdewolf  
+
+## Version History
+
+* 1.0
+    * Initial Release
+
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
