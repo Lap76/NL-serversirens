@@ -85,10 +85,10 @@ Momenteel zijn de enige serverside audio's die nederlands zijn:
 	<SOUNDS>
 			<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_horn" SoundSet="oiss_ssa_vehaud_bcso_old_soundset" />
 			<NineMode AllowUse="false" />
-			<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_adam" SoundSet="oiss_ssa_vehaud_lscofd_old_soundset" /> 
-			<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_boy" SoundSet="oiss_ssa_vehaud_lscofd_old_soundset" />
-			<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_charles" SoundSet="oiss_ssa_vehaud_lscofd_old_soundset" />
-			<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_david" SoundSet="oiss_ssa_vehaud_lscofd_old_soundset" />
+			<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lscofd_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_adam" SoundSet="oiss_ssa_vehaud_lscofd_old_soundset" /> 
+			<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lscofd_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_boy" SoundSet="oiss_ssa_vehaud_lscofd_old_soundset" />
+			<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lscofd_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_charles" SoundSet="oiss_ssa_vehaud_lscofd_old_soundset" />
+			<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lscofd_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_david" SoundSet="oiss_ssa_vehaud_lscofd_old_soundset" />
 	</SOUNDS>
 ```
 ### Brandweer:
