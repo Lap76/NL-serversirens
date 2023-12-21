@@ -6,6 +6,7 @@ Momenteel zijn de enige serverside audio's die nederlands zijn:
  * oiss_ssa_vehaud_bcso_old
  * oiss_ssa_vehaud_sahp_bike
  * oiss_ssa_vehaud_lscofd_old
+* oiss_ssa_vehaud_usfs_old Kerst sirene's
 
 ## Benodigde Scripts
 
