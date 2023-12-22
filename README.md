@@ -1,4 +1,4 @@
-# Nederlandse Sirene Pack gemaakt door Lars de Wolf
+# Nederlandse Sirene Pack gemaakt door Lars de Wolf <https://github.com/Lap76/NL-serversirens>
 
 Momenteel zijn de enige serverside audio's die nederlands zijn:
  * oiss_ssa_vehaud_bcfd_new 
