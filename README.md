@@ -87,6 +87,17 @@ Config.AudioBanks = {
 		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_edward" SoundSet="oiss_ssa_vehaud_bcso_old_soundset" />
 	</SOUNDS>
 ```
+### Politie VP Updated:
+```
+	<SOUNDS>
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="OISS_SSA_VEHAUD_lspd_old_HORN" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+		<NineMode AllowUse="false" />
+		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_charles" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_david" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_adam" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" /> 
+		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_boy" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+	</SOUNDS>
+```
 ### Politie VP:
 ```
 	<SOUNDS>
