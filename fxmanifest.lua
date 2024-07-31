@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Larsdewolf'
 description 'Nederlandse Server Sided Audio'
-version '1.0.0'
+version '2.0.0'
 
 files { 
 	"dlc_serversideaudio/oiss_ssa_vehaud_lspd_new.awc",
