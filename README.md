@@ -145,7 +145,7 @@ Config.AudioBanks = {
 ### Ambulance Updated:
 ```	
 	<SOUNDS>
-		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_horn" SoundSet="oiss_ssa_vehaud_bcso_old_soundset" />
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_horn" SoundSet="oiss_ssa_vehaud_sams_new_soundset" />
 		<NineMode AllowUse="false" />
 		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_siren_adam" SoundSet="oiss_ssa_vehaud_sams_new_soundset" /> 
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_siren_boy" SoundSet="oiss_ssa_vehaud_sams_new_soundset" />
