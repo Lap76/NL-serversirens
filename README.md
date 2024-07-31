@@ -9,6 +9,7 @@ Momenteel zijn de enige serverside audio's die nederlands zijn:
  * oiss_ssa_vehaud_lscofd_new	(Nieuwe Brandweer sirene update)
  * oiss_ssa_vehaud_sams_new 	(Nieuwe Ambulance sirene update)
  * oiss_ssa_vehaud_lspd_old	(Nieuwe Politie sirene update)
+ * oiss_ssa_vehaud_sahp_new	(Nieuwe Politie motor+extra sirene update)
 
 ## MISS-ELS Config:
 
@@ -41,6 +42,17 @@ Config.AudioBanks = {
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_boy" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
 		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_charles" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
 		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_david" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+	</SOUNDS>
+```
+### Politie Noodhulp Extra:
+```	
+	<SOUNDS>
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="OISS_SSA_VEHAUD_lspd_old_HORN" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+		<NineMode AllowUse="false" />
+		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_edward" SoundSet="OISS_SSA_VEHAUD_sahp_new_SOUNDSET" /> 
+		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_edaward" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_adam" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" /> 
+		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_boy" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
 	</SOUNDS>
 ```
 ### Politie Noodhulp:
@@ -142,7 +154,7 @@ Config.AudioBanks = {
 		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_new" AudioString="oiss_ssa_vehaud_bcso_new_siren_david" SoundSet="OISS_SSA_VEHAUD_BCSO_NEW_SOUNDSET" />
 	</SOUNDS>
 ```
-### Motor:
+### Motor Updated:
 ```	
 	<SOUNDS>
 		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_horn" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
@@ -151,6 +163,17 @@ Config.AudioBanks = {
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_boy" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
 		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_charles" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
 		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_david" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
+	</SOUNDS>
+```
+### Motor:
+```	
+	<SOUNDS>
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_horn" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
+		<NineMode AllowUse="false" />
+		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_adam" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" /> 
+		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_boy" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
+		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_charles" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
+		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_david" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
 	</SOUNDS>
 ```
 ### Motor v2:
