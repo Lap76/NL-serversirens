@@ -19,7 +19,8 @@ Config.AudioBanks = {
     'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_LSCOFD_OLD',
     'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_FIB_NEW', -- Optioneel voor admins/events amerikaanse sirenes
     'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_LSPD_NEW', -- Optioneel voor admins/events amerikaanse sirenes
-}```
+}
+```
 
 ## Benodigde Scripts/Resources
 
