@@ -10,6 +10,7 @@ Momenteel zijn de enige serverside audio's die nederlands zijn:
  * oiss_ssa_vehaud_sams_new 	(Nieuwe Ambulance sirene update)
  * oiss_ssa_vehaud_lspd_old	(Nieuwe Politie sirene update)
  * oiss_ssa_vehaud_sahp_new	(Nieuwe Politie motor+extra sirene update)
+ * oiss_ssa_vehaud_fib_old	(Duits + Belgische sirene extra)
 
 ## MISS-ELS Config:
 
@@ -23,6 +24,11 @@ Config.AudioBanks = {
     'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_LSCOFD_OLD',
     'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_FIB_NEW', -- Optioneel voor admins/events amerikaanse sirenes
     'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_LSPD_NEW', -- Optioneel voor admins/events amerikaanse sirenes
+    'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_LSCOFD_NEW',
+    'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_SAMS_NEW',
+    'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_LSPD_OLD',
+    'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_SAHP_NEW',
+    'DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_FIB_OLD', -- Optioneel Duits/Belgische sirenes
 }
 ```
 
@@ -284,6 +290,17 @@ Config.AudioBanks = {
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_edward" SoundSet="oiss_ssa_vehaud_bcso_old_soundset" />
 		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcfd_new" AudioString="oiss_ssa_vehaud_bcfd_new_siren_charles" SoundSet="oiss_ssa_vehaud_bcfd_new_soundset" />
 		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcfd_new" AudioString="oiss_ssa_vehaud_bcfd_new_siren_david" SoundSet="oiss_ssa_vehaud_bcfd_new_soundset" />
+	</SOUNDS>
+```
+### Duits + Belgishe Sirenes:
+```	
+	<SOUNDS>
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_fib_old" AudioString="OISS_SSA_VEHAUD_FIB_OLD_HORN" SoundSet="OISS_SSA_VEHAUD_FIB_OLD_SOUNDSET" />
+		<NineMode AllowUse="false" />
+		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_fib_old" AudioString="oiss_ssa_vehaud_fib_old_siren_adam" SoundSet="oiss_ssa_vehaud_fib_old_soundset" /> 
+		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_fib_old" AudioString="oiss_ssa_vehaud_fib_old_siren_boy" SoundSet="oiss_ssa_vehaud_fib_old_soundset" />
+		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_fib_old" AudioString="oiss_ssa_vehaud_fib_old_siren_charles" SoundSet="oiss_ssa_vehaud_fib_old_soundset" />
+		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_fib_old" AudioString="oiss_ssa_vehaud_fib_old_siren_david" SoundSet="oiss_ssa_vehaud_fib_old_soundset" />
 	</SOUNDS>
 ```
 
