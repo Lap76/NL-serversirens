@@ -163,23 +163,23 @@ Config.AudioBanks = {
 ### Motor Updated:
 ```	
 	<SOUNDS>
-		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_horn" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
-		<NineMode AllowUse="false" />
-		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_adam" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" /> 
-		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_boy" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
-		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_charles" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
-		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_david" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
-	</SOUNDS>
-```
-### Motor:
-```	
-	<SOUNDS>
 		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_horn" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
 		<NineMode AllowUse="false" />
 		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_adam" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" /> 
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_boy" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
 		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_charles" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
 		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_david" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
+	</SOUNDS>
+```
+### Motor:
+```	
+	<SOUNDS>
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_horn" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
+		<NineMode AllowUse="false" />
+		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_adam" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" /> 
+		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_boy" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
+		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_charles" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
+		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_bike" AudioString="oiss_ssa_vehaud_sahp_bike_siren_david" SoundSet="oiss_ssa_vehaud_sahp_bike_soundset" />
 	</SOUNDS>
 ```
 ### Motor v2:
