@@ -42,7 +42,7 @@ Config.AudioBanks = {
 ### Politie Noodhulp Updated:
 ```	
 	<SOUNDS>
-		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="OISS_SSA_VEHAUD_lspd_old_HORN" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_horn" SoundSet="oiss_ssa_vehaud_sams_new_soundset" />
 		<NineMode AllowUse="false" />
 		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_adam" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" /> 
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_boy" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
@@ -53,7 +53,7 @@ Config.AudioBanks = {
 ### Politie Noodhulp Extra:
 ```	
 	<SOUNDS>
-		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="OISS_SSA_VEHAUD_lspd_old_HORN" SoundSet="OISS_SSA_VEHAUD_LSPD_OLD_SOUNDSET" />
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_horn" SoundSet="oiss_ssa_vehaud_sams_new_soundset" />
 		<NineMode AllowUse="false" />
 		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_edward" SoundSet="OISS_SSA_VEHAUD_SAHP_NEW_SOUNDSET" /> 
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_edaward" SoundSet="OISS_SSA_VEHAUD_LSPD_OLD_SOUNDSET" />
@@ -108,7 +108,7 @@ Config.AudioBanks = {
 ### Politie VP Updated:
 ```
 	<SOUNDS>
-		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="OISS_SSA_VEHAUD_lspd_old_HORN" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_horn" SoundSet="oiss_ssa_vehaud_sams_new_soundset" />
 		<NineMode AllowUse="false" />
 		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_charles" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_david" SoundSet="OISS_SSA_VEHAUD_lspd_old_SOUNDSET" />
@@ -163,7 +163,7 @@ Config.AudioBanks = {
 ### Motor Updated:
 ```	
 	<SOUNDS>
-		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_horn" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_horn" SoundSet="oiss_ssa_vehaud_sams_new_soundset" />
 		<NineMode AllowUse="false" />
 		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_adam" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" /> 
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_boy" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
