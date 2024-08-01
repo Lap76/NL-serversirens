@@ -295,7 +295,7 @@ Config.AudioBanks = {
 ### Duits + Belgishe Sirenes:
 ```	
 	<SOUNDS>
-		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_fib_old" AudioString="OISS_SSA_VEHAUD_FIB_OLD_HORN" SoundSet="OISS_SSA_VEHAUD_FIB_OLD_SOUNDSET" />
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_horn" SoundSet="oiss_ssa_vehaud_sams_new_soundset" />
 		<NineMode AllowUse="false" />
 		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_fib_old" AudioString="oiss_ssa_vehaud_fib_old_siren_adam" SoundSet="oiss_ssa_vehaud_fib_old_soundset" /> 
 		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_fib_old" AudioString="oiss_ssa_vehaud_fib_old_siren_boy" SoundSet="oiss_ssa_vehaud_fib_old_soundset" />
