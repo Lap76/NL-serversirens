@@ -149,15 +149,15 @@ Config.AudioBanks = {
 		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_david" SoundSet="oiss_ssa_vehaud_bcso_old_soundset" />
 	</SOUNDS>
 ```
-### Unmarked C: 
+### Unmarked C (Updated): 
 ```
 	<SOUNDS>
-		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_new" AudioString="OISS_SSA_VEHAUD_BCSO_NEW_HORN" SoundSet="OISS_SSA_VEHAUD_BCSO_NEW_SOUNDSET" />
+		<MainHorn AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sams_new" AudioString="oiss_ssa_vehaud_sams_new_horn" SoundSet="oiss_ssa_vehaud_sams_new_soundset" />
 		<NineMode AllowUse="false" />
-		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_charles" SoundSet="oiss_ssa_vehaud_bcso_old_soundset" /> 
-		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_old" AudioString="oiss_ssa_vehaud_bcso_old_siren_david" SoundSet="oiss_ssa_vehaud_bcso_old_soundset" />
-		<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_new" AudioString="oiss_ssa_vehaud_bcso_new_siren_charles" SoundSet="OISS_SSA_VEHAUD_BCSO_NEW_SOUNDSET" /> 
-		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_new" AudioString="oiss_ssa_vehaud_bcso_new_siren_david" SoundSet="OISS_SSA_VEHAUD_BCSO_NEW_SOUNDSET" />
+		<SrnTone1 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_charles" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
+		<SrnTone2 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_david" SoundSet="oiss_ssa_vehaud_sahp_new_soundset" />
+        	<SrnTone3 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_sahp_new" AudioString="oiss_ssa_vehaud_sahp_new_siren_edward" SoundSet="OISS_SSA_VEHAUD_SAHP_NEW_SOUNDSET" /> 
+		<SrnTone4 AllowUse="true" SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_lspd_old" AudioString="oiss_ssa_vehaud_lspd_old_siren_edward" SoundSet="OISS_SSA_VEHAUD_LSPD_OLD_SOUNDSET" />
 	</SOUNDS>
 ```
 ### Motor Updated:
